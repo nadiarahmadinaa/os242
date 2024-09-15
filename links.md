@@ -35,5 +35,5 @@ A short crash course on cybersecurity, fit for beginners. Discussing about attac
 Full tutorial on the C Language. You can watch the whole thing if you have time, or skim through the topics if you don't.
 <br>
 <br>
-#### REV: Fri 16 Sep 2024 19:00
+#### REV: Fri 15 Sep 2024 19:00
 <hr5
