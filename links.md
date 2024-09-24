@@ -19,6 +19,10 @@ permalink: LINKS/
   This site contains a short but precise explanation of the C Pointer.
 * [Intro to C Language](https://medium.com/@vijayaneraye/basics-of-c-programming-for-beginners-part-1-9ccabb0c3e6c){:target="_blank"} ---
   This site contains an introduction of the C language for beginners. The article has a few parts, so be sure to check them out as well!
+* [A guide to Linux Disk Partition](https://harsh05.medium.com/linux-partitioning-a-comprehensive-guide-64b8618cb3f3){:target="_blank"} ---
+  This link guides us on disk partitioning in Linux, including how it works and the common commands to do it.
+* [Summary of File Systems](https://www.kingston.com/en/blog/personal-storage/understanding-file-systems){:target="_blank"} ---
+  A quick comparison of file systems, including the advantage and disadvantage of each file system
 
 ### Videos: For when you need a deeper understanding
 * [60 Linux Commands in 10 Minutes](https://www.youtube.com/watch?v=gd7BXuUQ91w){:target="_blank"} ---
@@ -33,7 +37,9 @@ Master C Pointer in 15 minutes! The video covers C Pointers, Void Pointers, Func
 A short crash course on cybersecurity, fit for beginners. Discussing about attack vectors, authentication, malware, and many more cybersecurity topics.
 * [Full C Language Course](https://www.youtube.com/watch?v=87SH2Cn0s9A){:target="_blank"} --- 
 Full tutorial on the C Language. You can watch the whole thing if you have time, or skim through the topics if you don't.
+* [File Systems Overview](https://www.youtube.com/watch?v=qJeZJL-ypyI){:target="_blank"} --- 
+Full overview on how the file system works.
 <br>
 <br>
-#### REV: Fri 15 Sep 2024 19:00
+#### REV: Tue 24 Sep 2024 11:00
 <hr5
