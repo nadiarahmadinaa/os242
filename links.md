@@ -23,6 +23,10 @@ permalink: LINKS/
   This link guides us on disk partitioning in Linux, including how it works and the common commands to do it.
 * [Summary of File Systems](https://www.kingston.com/en/blog/personal-storage/understanding-file-systems){:target="_blank"} ---
   A quick comparison of file systems, including the advantage and disadvantage of each file system
+* [Article on Linux Software Libraries](https://opensource.com/article/21/2/linux-software-libraries){:target="_blank"} ---
+  This will help in understanding dynamic and static libraries in linux.
+* [Article on Linux Memory Allocation](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386){:target="_blank"} ---
+  An article to help us understand memory allocation in linux. It will cover logical address, physical address, and physical memory.
 
 ### Videos: For when you need a deeper understanding
 * [60 Linux Commands in 10 Minutes](https://www.youtube.com/watch?v=gd7BXuUQ91w){:target="_blank"} ---
@@ -39,7 +43,9 @@ A short crash course on cybersecurity, fit for beginners. Discussing about attac
 Full tutorial on the C Language. You can watch the whole thing if you have time, or skim through the topics if you don't.
 * [File Systems Overview](https://www.youtube.com/watch?v=qJeZJL-ypyI){:target="_blank"} --- 
 Full overview on how the file system works.
+* [A Quick Walkthrough of Virtual Memory](https://www.youtube.com/watch?v=6neHHkI0Z0o){:target="_blank"} --- 
+Example and walkthrough of Virtual Memory in Linux.
 <br>
 <br>
-#### REV: Tue 24 Sep 2024 11:00
+#### REV: Tue 1 October 2024 15:00
 <hr5
