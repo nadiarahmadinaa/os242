@@ -1,6 +1,13 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W04 200 L02 Attend OS classes
+ZCZC W04 200 L09 Weekly Assignments
+ZCZC W04 90 L05 Study and do weekly quiz
+ZCZC W04 10 L41 Update log.txt
+ZCZC W04 90 L01 Answer popquiz in SCELE and slogin
+ZCZC W04 90 L32 Find OS resources on YouTube
+ZCZC W04 60 L06 Look up references for this week's material
 ZCZC W03 200 L02 Attend OS classes
 ZCZC W03 250 L09 Weekly Assignments
 ZCZC W03 90 L05 Study for quiz and do weekly quiz
