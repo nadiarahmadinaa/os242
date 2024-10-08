@@ -27,7 +27,11 @@ permalink: LINKS/
   This will help in understanding dynamic and static libraries in linux.
 * [Article on Linux Memory Allocation](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386){:target="_blank"} ---
   An article to help us understand memory allocation in linux. It will cover logical address, physical address, and physical memory.
-
+* [Virtual Memory Addressing Algorithm](https://www.tutorialspoint.com/operating_system/pdf/os_virtual_memory.pdf){:target="_blank"} ---
+  A quick read on algorithms used in virtual memory addressing.
+* [Virtual Memory Overview](https://medium.com/@fargadeashish/virtual-memory-how-your-computer-manages-memory-beyond-physical-limits-73e19dea7b30){:target="_blank"} ---
+  A thorough overview on virtual memory, ranging from definition, types, and benefits.
+  
 ### Videos: For when you need a deeper understanding
 * [60 Linux Commands in 10 Minutes](https://www.youtube.com/watch?v=gd7BXuUQ91w){:target="_blank"} ---
   A fast-paced tutorial, explanation, and example of 60 Linux Bash Command. Very understandable yet compact!
@@ -43,8 +47,10 @@ A short crash course on cybersecurity, fit for beginners. Discussing about attac
 Full tutorial on the C Language. You can watch the whole thing if you have time, or skim through the topics if you don't.
 * [File Systems Overview](https://www.youtube.com/watch?v=qJeZJL-ypyI){:target="_blank"} --- 
 Full overview on how the file system works.
-* [A Quick Walkthrough of Virtual Memory](https://www.youtube.com/watch?v=6neHHkI0Z0o){:target="_blank"} --- 
+* [A Quick Walkthrough of Virtual Memory](https://www.youtube.com/watch?v=6neHHkI0Z0o){:target="_blank"} ---
 Example and walkthrough of Virtual Memory in Linux.
+* [Types of Virtual Memories Explained](https://m.youtube.com/watch?v=p9yZNLeOj4s&pp=ygUYdmlydHVhbCBtZW1vcnkgZXhwbGFpbmVk){:target="_blank"} ---
+Overview of the segmented, paged, and virtual memory.
 <br>
 <br>
 #### REV: Tue 1 October 2024 15:00
