@@ -31,6 +31,10 @@ permalink: LINKS/
   A quick read on algorithms used in virtual memory addressing.
 * [Virtual Memory Overview](https://medium.com/@fargadeashish/virtual-memory-how-your-computer-manages-memory-beyond-physical-limits-73e19dea7b30){:target="_blank"} ---
   A thorough overview on virtual memory, ranging from definition, types, and benefits.
+* [Fork in C](https://www.interviewkickstart.com/blogs/learn/fork-in-c){:target="_blank"} ---
+  Slight overview on the fork function in C.
+* [mmap in C](https://biriukov.dev/docs/page-cache/5-more-about-mmap-file-access/){:target="_blank"} ---
+  Overview on how the mmap function works in C.
   
 ### Videos: For when you need a deeper understanding
 * [60 Linux Commands in 10 Minutes](https://www.youtube.com/watch?v=gd7BXuUQ91w){:target="_blank"} ---
@@ -51,6 +55,10 @@ Full overview on how the file system works.
 Example and walkthrough of Virtual Memory in Linux.
 * [Types of Virtual Memories Explained](https://m.youtube.com/watch?v=p9yZNLeOj4s&pp=ygUYdmlydHVhbCBtZW1vcnkgZXhwbGFpbmVk){:target="_blank"} ---
 Overview of the segmented, paged, and virtual memory.
+* [Visualization of Fork in C](https://www.youtube.com/watch?v=QD9YKSg3wCc){:target="_blank"} ---
+  A visualization of how fork works in C.
+* [Process IDs in C](https://www.youtube.com/watch?v=PZrQ4eGm-hM){:target="_blank"} ---
+  A concise explanation on PIDs in C.
 <br>
 <br>
 #### REV: Tue 1 October 2024 15:00
