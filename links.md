@@ -35,6 +35,8 @@ permalink: LINKS/
   Slight overview on the fork function in C.
 * [mmap in C](https://biriukov.dev/docs/page-cache/5-more-about-mmap-file-access/){:target="_blank"} ---
   Overview on how the mmap function works in C.
+* [Synchronization and Shared Memory](https://carpentries-incubator.github.io/lesson-gpu-programming/shared_memory_and_synchronization.html){:target="_blank"} ---
+  Overview of synchronization and shared memory. The site also offers practice through challenges.
   
 ### Videos: For when you need a deeper understanding
 * [60 Linux Commands in 10 Minutes](https://www.youtube.com/watch?v=gd7BXuUQ91w){:target="_blank"} ---
@@ -59,6 +61,8 @@ Overview of the segmented, paged, and virtual memory.
   A visualization of how fork works in C.
 * [Process IDs in C](https://www.youtube.com/watch?v=PZrQ4eGm-hM){:target="_blank"} ---
   A concise explanation on PIDs in C.
+* [Semaphores in C](https://www.youtube.com/watch?v=ukM_zzrIeXs){:target="_blank"} ---
+  Overview of semaphores in C.
 <br>
 <br>
 #### REV: Tue 1 October 2024 15:00
