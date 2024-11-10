@@ -1,6 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W08 200 L02 Attend OS classes
+ZCZC W08 300 L09 Do Weekly Assignments
+ZCZC W08 90 L05 Do Weekly Assignments
+ZCZC W08 10 L41 Update log.txt
+ZCZC W08 60 L62 Backup debian guest
+ZCZC W08 100 L01 Answer popquiz in SCELE and os1
 ZCZC W07 200 L02 Attend OS classes
 ZCZC W07 200 L09 Do Weekly Assignments
 ZCZC W07 90 L05 Study and do weekly quiz
