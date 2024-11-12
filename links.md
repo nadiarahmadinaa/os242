@@ -37,6 +37,8 @@ permalink: LINKS/
   Overview on how the mmap function works in C.
 * [Synchronization and Shared Memory](https://carpentries-incubator.github.io/lesson-gpu-programming/shared_memory_and_synchronization.html){:target="_blank"} ---
   Overview of synchronization and shared memory. The site also offers practice through challenges.
+* [LFS tutorial book](https://www.linuxfromscratch.org/lfs/view/12.2/index.html){:target="_blank"} ---
+  Full theory on LFS and step-by-step instructions to build your own LFS on Linux.
   
 ### Videos: For when you need a deeper understanding
 * [60 Linux Commands in 10 Minutes](https://www.youtube.com/watch?v=gd7BXuUQ91w){:target="_blank"} ---
@@ -63,6 +65,8 @@ Overview of the segmented, paged, and virtual memory.
   A concise explanation on PIDs in C.
 * [Semaphores in C](https://www.youtube.com/watch?v=ukM_zzrIeXs){:target="_blank"} ---
   Overview of semaphores in C.
+* [Tutorial on LFS installation](https://www.youtube.com/watch?v=KT7z4YbjtJ8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=8){:target="_blank"} ---
+  Kernotex's tutorial on LFS installation in Linux. The video is uncut and has great explanation, some not mentioned in the book. Very useful to get you starting on LFS.
 <br>
 <br>
 #### REV: Tue 1 October 2024 15:00
